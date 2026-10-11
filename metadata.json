@@ -1,0 +1,6 @@
+{
+  "name": "HOMOD SMC Trader Pro - US Stocks Institutional Analysis",
+  "description": "منصة تحليل متكاملة لـ 400 سهم أمريكي تعتمد استراتيجية المال الذكي SMC على 4 أطر زمنية (4H, 1H, 5M) لتحديد الصفقات ونقاط الدخول والهدف والوقف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

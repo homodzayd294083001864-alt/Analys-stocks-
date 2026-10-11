@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#020617"/>
+  <defs>
+    <linearGradient id="goldGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="emeraldGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="180" height="180" rx="34" fill="none" stroke="url(#goldGrad192)" stroke-width="3" opacity="0.6"/>
+
+  <!-- Golden H -->
+  <path d="M 45 45 L 65 45 L 65 84 L 127 84 L 127 45 L 147 45 L 147 147 L 127 147 L 127 106 L 65 106 L 65 147 L 45 147 Z" fill="url(#goldGrad192)"/>
+
+  <!-- Candlesticks -->
+  <rect x="86" y="60" width="6" height="68" fill="url(#emeraldGrad192)" rx="2"/>
+  <line x1="89" y1="50" x2="89" y2="138" stroke="#10b981" stroke-width="2"/>
+</svg>
